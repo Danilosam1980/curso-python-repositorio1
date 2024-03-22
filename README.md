@@ -1,1 +1,1 @@
-# curso-python-repositorio1
+# Curso de Python de la academia Plan San Marcos
